@@ -10,7 +10,7 @@ for(i = 0; i < room_width; i += 64){
 damage = max(damage, tempDamage)
 tempDamage = 0;
 
-health = (life / max_life) * 100;
+health = life;
 
 //check to see if health <= 0 and end game
 if(life <= 0){

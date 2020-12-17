@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 0,
+  "bbox_right": 79,
   "bbox_top": 0,
-  "bbox_bottom": 0,
+  "bbox_bottom": 39,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 64,
-  "height": 64,
+  "width": 80,
+  "height": 40,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"10068ab5-6d9c-4eb7-a583-00a7594e6f82","path":"sprites/Sprite8/Sprite8.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"10068ab5-6d9c-4eb7-a583-00a7594e6f82","path":"sprites/Sprite8/Sprite8.yy",},"LayerId":{"name":"f413d20e-41dd-4ad4-a83c-fb49c2942920","path":"sprites/Sprite8/Sprite8.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},"resourceVersion":"1.0","name":"10068ab5-6d9c-4eb7-a583-00a7594e6f82","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"217f8e8e-ec76-4468-98c6-21ed1041b9eb","path":"sprites/spr_upgradeShootSpeed/spr_upgradeShootSpeed.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"217f8e8e-ec76-4468-98c6-21ed1041b9eb","path":"sprites/spr_upgradeShootSpeed/spr_upgradeShootSpeed.yy",},"LayerId":{"name":"de6dae96-ac3f-4aa9-8b1c-7eca3ba0a93f","path":"sprites/spr_upgradeShootSpeed/spr_upgradeShootSpeed.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_upgradeShootSpeed","path":"sprites/spr_upgradeShootSpeed/spr_upgradeShootSpeed.yy",},"resourceVersion":"1.0","name":"217f8e8e-ec76-4468-98c6-21ed1041b9eb","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},
+    "spriteId": {"name":"spr_upgradeShootSpeed","path":"sprites/spr_upgradeShootSpeed/spr_upgradeShootSpeed.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"55430fd0-c54b-4fdc-a0dd-0e08f1111166","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"10068ab5-6d9c-4eb7-a583-00a7594e6f82","path":"sprites/Sprite8/Sprite8.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"644ac7f1-edee-4b50-a9f2-d21c7c69bd9f","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"217f8e8e-ec76-4468-98c6-21ed1041b9eb","path":"sprites/spr_upgradeShootSpeed/spr_upgradeShootSpeed.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},
+    "parent": {"name":"spr_upgradeShootSpeed","path":"sprites/spr_upgradeShootSpeed/spr_upgradeShootSpeed.yy",},
     "resourceVersion": "1.3",
-    "name": "Sprite8",
+    "name": "spr_upgradeShootSpeed",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f413d20e-41dd-4ad4-a83c-fb49c2942920","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"de6dae96-ac3f-4aa9-8b1c-7eca3ba0a93f","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Block_Invader",
     "path": "Block_Invader.yyp",
   },
   "resourceVersion": "1.0",
-  "name": "Sprite8",
+  "name": "spr_upgradeShootSpeed",
   "tags": [],
   "resourceType": "GMSprite",
 }
