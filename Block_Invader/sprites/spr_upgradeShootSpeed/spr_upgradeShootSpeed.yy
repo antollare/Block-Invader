@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"de6dae96-ac3f-4aa9-8b1c-7eca3ba0a93f","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Block_Invader",
-    "path": "Block_Invader.yyp",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_upgradeShootSpeed",

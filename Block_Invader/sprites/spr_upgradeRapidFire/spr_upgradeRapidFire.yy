@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"896affcd-f498-427c-bcf4-878396241a0a","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Block_Invader",
-    "path": "Block_Invader.yyp",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_upgradeRapidFire",
